@@ -11,6 +11,8 @@ Holy shit! It's been FOUR. FUCKING. YEARS. Probably worth a bit of a recap then.
 
 [When last we paid visit to Beercave Towers](/blog/2015/07/06/egad-a-post/), I'd just gotten done releasing the voxel games. After that, things went a wee bit haywire. Let's see:
 
+<!--more-->
+
 * Well, Lemmy died for a start - still pretty sure that was the point where we diverged into the darkest timeline.
 * 2016 - just, fucking, 2016...
 * I did manage to get a game out among all the chaos though...[ it's not bad](/games/space-bastards/)
