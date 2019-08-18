@@ -1,7 +1,6 @@
 +++
 date = "2019-08-18T19:36:00+00:00"
 description = ""
-draft = true
 tags = ["burnout", "ramblings"]
 title = "He's alive! ALIVE!"
 
