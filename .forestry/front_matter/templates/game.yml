@@ -8,9 +8,9 @@ fields:
 - type: text
   name: description
   label: description
-- type: number
-  name: size
-  label: size
+- type: datetime
+  name: date
+  label: date
 - type: field_group_list
   name: resources
   label: resources
@@ -21,9 +21,6 @@ fields:
   - type: file
     name: src
     label: src
-- type: datetime
-  name: date
-  label: date
 - type: field_group_list
   name: screenshots
   label: screenshots
