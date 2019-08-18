@@ -1,0 +1,23 @@
+{{define "main"}}
+
+<section class="container">
+    <h1>{{.Title}}</h1>
+    <section class="row">
+        {{if .Content}}
+        <div class="col-12">
+            <div class="block">
+                {{.Content}}
+            </div>
+        </div>
+        {{end}}
+        {{$template := default "li-block" .Params.itemTemplate}}
+        {{$allChildren := append .Pages .Sections }}
+        {{$list := cond (eq .Params.order "oldestFirst") $allChildren.ByDate $allChildren.ByDate.Reverse}}
+        {{ range $list }}
+            {{ .Render $template}}
+            
+        {{ end }}
+
+    </section>
+</section>
+{{end}}

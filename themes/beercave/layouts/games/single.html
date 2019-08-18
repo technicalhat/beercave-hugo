@@ -1,0 +1,90 @@
+{{define "main"}}
+
+<header class="jumbotron jumbotron-fluid hero px-0">
+    <img src='{{ (.Resources.GetMatch "banner_image").Permalink }}'/>
+    {{if .Params.downloads}}
+    <div class="download-links navbar-expand-md">
+        <a href="#" data-toggle="collapse" data-target="#downloads" class="btn btn-download d-md-none"><i class="fas fa-cloud-download-alt"></i> Download</a>
+        <div class="navbar-collapse collapse" id="downloads">
+          {{range .Params.downloads}}
+          <div class="nav-item d-inline-block mx-1">
+            <a href="{{.source}}" class="btn btn-block btn-download nav-link">
+              <span class="">
+                {{if eq .platform "Windows"}}
+                <i class="fab fa-windows"></i>
+                {{else if eq .platform "Mac"}}
+                <i class="fab fa-apple"></i>
+                {{else if eq .platform "Linux"}}
+                <i class="fab fa-linux"></i>
+                {{else if eq .platform "Android"}}
+                <i class="fab fa-android"></i>
+                {{else if eq .platform "Java"}}
+                <i class="fab fa-java"></i>
+                {{else if eq .platform "Itch"}}
+                <i class="fab fa-itch-io"></i>
+                {{end}}
+                 {{ default .platform .platformName}}</span>
+            </a>
+            </div>
+
+          {{end}}
+        </div>
+    </div>
+  {{end}}
+</header>
+
+</section>
+<section class="container">
+    <section class="row">
+        <section class="col-md-8 block">
+
+            {{.Content}}
+
+        </section>
+        <section class="col-md-4" data-toggle="modal" data-target="#lightbox">
+            {{ range $idx, $img := .Params.screenshots}}
+            <div class="screenshot">
+                <img src="{{ $img.thumb}}" alt="{{$img.title}}" title="{{$img.title}}"  
+                data-target="#lightboxCarousel" data-slide-to="{{$idx}}"/>
+                <p class="title">{{$img.title}}</p>
+            </div>
+            {{end}}
+        </section>
+    </section>
+    
+<div class="modal fade" id="lightbox" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-xl" role="document">
+          <div class="modal-content">
+            <div class="modal-body">
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+              <div id="lightboxCarousel" class="carousel slide" data-ride="carousel">
+                <ol class="carousel-indicators">
+                        {{ range $idx, $img := .Params.screenshots}}
+                  <li data-target="#lightboxCarousel" data-slide-to="{{$idx}}" {{if eq $idx 0}}class="active"{{end}}></li>
+                  
+                    {{end}}
+                </ol>
+                <div class="carousel-inner">
+                    
+            {{ range  $idx, $img := .Params.screenshots}}
+                  <div class="carousel-item {{if eq $idx 0}}active{{end}}">
+                    <img class="d-block w-100" src="{{$img.img}}" alt="{{$img.title}}">
+                  </div>
+                  {{end}}
+                </div>
+                <a class="carousel-control-prev" href="#lightboxCarousel" role="button" data-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#lightboxCarousel" role="button" data-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="sr-only">Next</span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    {{end}}

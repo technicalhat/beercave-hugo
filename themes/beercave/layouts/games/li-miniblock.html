@@ -1,0 +1,17 @@
+<div class="col-md-4">
+    <article class="game-item block mini">
+        <header>
+            <time datetime='{{.Date.Format "2001-01-01"}}'>
+                <span class="month">{{.Date.Format "January"}}</span>
+                {{if ne .Date.Year 2013}}{{.Date.Year}}{{end}}
+            </time>
+            <figure>
+                <img src='{{ (.Resources.GetMatch "grid_image").Permalink }}'/>
+            </figure>
+            <h1><a href='{{.Permalink}}'>{{.Title | markdownify}}</a></h1>
+        </header>
+        <section class="description">
+        {{.Description | markdownify }}
+        </section>
+    </article>
+</div>

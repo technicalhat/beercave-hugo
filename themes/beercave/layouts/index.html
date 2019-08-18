@@ -1,0 +1,45 @@
+{{define "main"}}
+<!--
+OK, let's do some actual fucking design. So what we want is
+
+---
+Sticky header
+LOGO          LINKS
+--------
+big-ass jumbotron
+GAMES   FUCK   GAMES
+GAMES   ART    GAMES
+GAMES   LETS   GAMES
+GAMES   KILL   GAMES
+----------
+^^possibly with overlay text, possibly not          
+EXPLN   ||| IMG
+
+---
+News items (latest blogs tagged with "news", that have a cover image)
+IMG | title
+IMG | intro
+
+title | IMG
+intro | IMG
+
+IMG | title
+IMG | intro
+
+---
+BIG OL' FOOTER
+
+
+
+-->
+<header class="megaheader home-image">
+
+</header>
+
+<section class="container">
+<section class="row">
+<div class="col-md-8 block"><p>{{.Content}}</p></div>
+<div class="col-md-4 text-center"><img src='{{ "/img/beerman-cutout-smol.png" | absURL}}'></div>
+</section>
+</section>
+{{end}}
