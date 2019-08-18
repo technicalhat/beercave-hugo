@@ -14,30 +14,30 @@ Holy shit! It's been FOUR. FUCKING. YEARS. Probably worth a bit of a recap then.
 <!--more-->
 
 * Well, Lemmy died for a start - still pretty sure that was the point where we diverged into the darkest timeline.
-* ![](/uploads/The_darkest_timeline.gif)
+* ![](uploads/The_darkest_timeline.gif)
 * 2016 - just... fucking... 2016...
 * I did manage to get a game out among all the chaos though...[ it's not bad](/games/space-bastards/)
 * House move
 * Car wreck _during_ house move - that was all kinds of fun...
 * Burnout
 * Wicker man
-* ![](/uploads/46458636_10156943771863140_3512273638755663872_n.jpg)
+* ![](uploads/46458636_10156943771863140_3512273638755663872_n.jpg)
 * Thunderdome
-* ![](/uploads/full with beerman.jpg)
+* ![](uploads/full with beerman.jpg)
 * More burnout
 * Siege weapons
-* ![](/uploads/vlcsnap-2018-02-27-19h40m50s853.png)
+* ![](uploads/vlcsnap-2018-02-27-19h40m50s853.png)
 * Hot tub - didn't exactly _help_ with the burnout but it's a great way to avoid thinking about it
 * Ramm-Shrine
-* ![](/uploads/vlcsnap-2018-02-27-19h40m50s853.png)
+* ![](uploads/vlcsnap-2018-02-27-19h40m50s853.png)
 * Drinktober!
-* ![](/uploads/IMG_20181031_190651.jpg)
+* ![](uploads/IMG_20181031_190651.jpg)
 * Decem-bier
-* ![](/uploads/WithLighterv2.jpg)
+* ![](uploads/WithLighterv2.jpg)
 * Rammstein
-* ![](/uploads/IMG_20190608_214859.jpg)
+* ![](uploads/IMG_20190608_214859.jpg)
 * More Rammstein
-* ![](/uploads/IMG_20190706_220345.jpg)
+* ![](uploads/IMG_20190706_220345.jpg)
 
 And that about brings us up to date.
 
