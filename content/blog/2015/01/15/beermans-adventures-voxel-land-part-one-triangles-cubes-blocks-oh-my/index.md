@@ -4,7 +4,9 @@ description : ""
 date : 2015-01-15 22:42:00
 ---
 
-As [previously mentioned](/blog/2015/01/14/beermans-adventures-voxel-land), I'm having a crack at building my own voxel engine, because that's the sort of thing we do for entertainment around these parts. Here's how it's looking after a couple of evenings of development.
+As [previously mentioned](/blog/2015/01/14/beermans-adventures-voxel-land), I'm having a crack at building my own voxel engine, because that's the sort of thing we do for entertainment around these parts. 
+
+Here's how it's looking after a couple of evenings of development.
 
 <!--more-->
  

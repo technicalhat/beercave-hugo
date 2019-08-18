@@ -7,6 +7,8 @@ date: '2009-01-03 00:00:00'
 
 Ladies and Gentlebeasts. We are now 100% feature complete!
 
+<p></p>
+
 <!--more-->
 
 Everything that should be in there, is in there:

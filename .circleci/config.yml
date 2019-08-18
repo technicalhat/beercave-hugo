@@ -6,7 +6,7 @@ jobs:
       - image: cibuilds/hugo:latest
     working_directory: ~/hugo
     environment:
-      HUGO_BUILD_DIR: ~/hugo/public
+      HUGO_BUILD_DIR: public
       TARGET_REPO: technicalhat/beercave-web.git
 
     steps:

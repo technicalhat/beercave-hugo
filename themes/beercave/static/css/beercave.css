@@ -239,6 +239,9 @@ footer{
 .posts article  h4{font-size: 1.25rem;}
 .posts article  h5{font-size: 1rem;} 
 
+.posts article .post-content img{
+    max-width: 100%;
+}
 .posts article .post-content figure{
     text-align: center;
     display: block;
@@ -344,6 +347,9 @@ footer{
 .post-footer .sharing-links a:hover i{ 
     color:#aaa;
     text-decoration: none;
+}
+@media (max-width:430px){
+    #content{padding-top: 96px;}
 }
 @media (max-width: 576px) {
     .jumbotron {

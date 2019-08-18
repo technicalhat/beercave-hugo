@@ -7,6 +7,7 @@ date: '2009-02-24 00:00:00'
 
 I knocked up a quick gameplay video of Gun Bastard - it's not looking too shabby.
 
+<p></p>
 <!--more-->
 
 {{< youtube f0Sh2aFPmD8 >}}

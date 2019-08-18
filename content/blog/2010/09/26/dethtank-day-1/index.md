@@ -7,6 +7,8 @@ date: '2010-09-26 16:52:57'
 
 Got some decent progress made today on a prototype for my October Challenge game, currently going by the name of DETHTANK.
 
+<p></p>
+
 {{< youtube rMOAQ6XeQwQ >}}
 
 <!--more-->

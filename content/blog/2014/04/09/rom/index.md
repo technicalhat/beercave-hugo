@@ -5,7 +5,9 @@ tags : ["events", "ROM", "Retrovision"]
 date : 2014-04-09 21:00:00
 ---
 
-It was when I careered into the pub car park in a vehicle with no brakes for the second time in one day that I knew it was going to be a good weekend. The Beermobile had thoughtfully held it together for the preceding 200 miles or so before finally deciding to dump hydraulic fluid all over the road about half a mile from my final destination. Not the most auspicious of starts to the ROM retro gaming festival, but it could only get better from there...
+It was when I careered into the pub car park in a vehicle with no brakes for the second time in one day that I knew it was going to be a good weekend. The Beermobile had thoughtfully held it together for the preceding 200 miles or so before finally deciding to dump hydraulic fluid all over the road about half a mile from my final destination. 
+
+Not the most auspicious of starts to the ROM retro gaming festival, but it could only get better from there...
 
 <!--more-->
 

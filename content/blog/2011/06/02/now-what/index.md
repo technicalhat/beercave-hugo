@@ -5,8 +5,11 @@ tags : []
 date: '2011-06-02 21:59:46'
 ---
 
-So with [Sheep Snaggers 2](/content/sheep-snaggers-2) all done with (pending [bug fixes](/2011/06/01/found-problem) passing testing), I guess it's time to find a new project to play with. Which of course brings me to the eternal quandary of the indie developer :
-<h3>Which one of my countless unrealised ideas do I work on next?</h3>
+So with [Sheep Snaggers 2](/content/sheep-snaggers-2) all done with (pending [bug fixes](/2011/06/01/found-problem) passing testing), I guess it's time to find a new project to play with. 
+
+Which of course brings me to the eternal quandary of the indie developer :
+
+### Which one of my countless unrealised ideas do I work on next?
 
 <!--more-->
 
@@ -42,6 +45,7 @@ MB</pre>
 I can't draw to save my life so I'm thinking this could be a pretty cool looking way to get around that...
 </li>
 </ul>
+
 What I'm thinking right now is I should knock up some quick prototypes and see what works well. If there's anything you'd particularly like to see though, well, there's a comment section right below there and it'd be nice to have something <i>not</i> written by Russian spammers in the approval queue for a change...
 
 

@@ -7,7 +7,7 @@ date : 2012-03-06 16:17:04
 
 Not so very long ago, someone around these parts said something very much like this:
 
-<em>[Still, I think I've pretty much found my toolset for the forseeable - Unity for 3D and heavy lifting, Java/libGDX for smaller stuff. I'm hoping to be able to bang out smallish mobile games reasonably quickly](/2012/02/23/state-play)</em>
+> [Still, I think I've pretty much found my toolset for the forseeable - Unity for 3D and heavy lifting, Java/libGDX for smaller stuff. I'm hoping to be able to bang out smallish mobile games reasonably quickly](/2012/02/23/state-play)
 
 You'd think I'd know by now not to go making grand pronouncements of The Way Things Are Gonna Be - seems like it's a great way to bring about Change.
 

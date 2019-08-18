@@ -7,10 +7,10 @@ date : 2014-04-10 21:00:00
 
 It's no great secret that I like me some [Arena](/games/rogueotron-1gam-edition) [Shooter](/games/lagertron), so when [Rob](http://www.merseyremakes.co.uk/gibber/) started tweeting incessantly about something called [We Are Doomed](http://www.caffeinemonstersoftware.com/wearedoomed/) I figured I should give it a look. It's rather tasty...
 
-<!--more-->
 For starters, it has the BEST GUN.
 {{< figure src="doomed_laser.png" alt="BEST. GUN." caption="BEST. GUN." >}}
 
+<!--more-->
 Yep. Just look at that fucker. One big old annihilating slice of laser-sword-flamethrower. 
 And then there's the SuperBeam, which is like that, only MORE.
 

@@ -12,9 +12,7 @@ Still, that out of the way I've managed to get a good few hours in over the week
 Enough wittering on though - the main point of todays update was that I wanted to finally get a screenshot out there of what I'm working on. It's not hugely exciting visually but at least it's something to look at.
 
 
-<a href="http://s24.photobucket.com/albums/c12/b33rman/beercave/?action=view&amp;current=20110918.png"><img src="http://i24.photobucket.com/albums/c12/b33rman/beercave/20110918smaller.png"/></a>
-
-
+{{< figure src="http://i24.photobucket.com/albums/c12/b33rman/beercave/20110918smaller.png" >}}
 
 That's how it looks right now - currently you can connect multiple players and they get to take turns rolling the die and moving around the board. Now that I've got a bit neater codebase to work with I be able to should start adding features a bit more rapidly.
 

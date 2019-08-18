@@ -5,10 +5,6 @@ tags : ["1gam", "releases", "juno hunter"]
 date : 2013-03-04 14:11:58
 ---
 
-<p style="float:right;"><a href="/games/junohunter-prologue" >
-<img src="https://s3.amazonaws.com/beercave.co.uk/gameamonth2013/month2/logo_cropped.png" style="width:250px;" />
-</a>
-</p>
 Damn, that was a close one. The trip to Texas ended up eating a bit more of my dev time than I'd expected since it took me a good few days to get back into gear once we returned. 
 
 Luckily, #1GAM comes with a 96 hour grace period for submissions, which worked out nicely to give me an extra weekend to play with before the deadline.

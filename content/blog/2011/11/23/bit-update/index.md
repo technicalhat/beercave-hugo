@@ -12,7 +12,8 @@ First off, the Beercave has moved. Still getting settled in and unpacked in the 
 Playing Gods is coming along nicely. Had a minor hiccup in the early playtesting where it looked like the App Engine server I'd built wasn't really up to the job. I was having some pretty major stability issues with the Channel API, and some concerns about getting it talking to Unity. Fortunately, while poking around the Unity forums, I ran across <a href="http://www.smartfoxserver.com">SmartFox Server</a>, a server platform designed for building multiplayer online games with a Unity API. Since SmartFox talks python it was a fairly minor job to port all the game logic from the App Enging server across, and I'm now much happier with what I've got.
 
 I'm currently working on rebuilding the client in Unity. So far I've got a simplified board, player movement and card collection working, and it looks a little bit like this:
-<a href="http://s24.photobucket.com/albums/c12/b33rman/beercave/?action=view&amp;current=Unity2.jpg" target="_blank"><img src="http://i24.photobucket.com/albums/c12/b33rman/beercave/Unity2.jpg" border="0" alt="Photobucket"></a>
+
+{{< figure src="http://i24.photobucket.com/albums/c12/b33rman/beercave/Unity2.jpg" >}}
 
 <!--more-->
 
