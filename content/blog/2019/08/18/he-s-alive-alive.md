@@ -14,25 +14,34 @@ Holy shit! It's been FOUR. FUCKING. YEARS. Probably worth a bit of a recap then.
 <!--more-->
 
 * Well, Lemmy died for a start - still pretty sure that was the point where we diverged into the darkest timeline.
-* 2016 - just, fucking, 2016...
+* ![](/uploads/The_darkest_timeline.gif)
+* 2016 - just... fucking... 2016...
 * I did manage to get a game out among all the chaos though...[ it's not bad](/games/space-bastards/)
 * House move
 * Car wreck _during_ house move - that was all kinds of fun...
 * Burnout
 * Wicker man
+* ![](/uploads/46458636_10156943771863140_3512273638755663872_n.jpg)
 * Thunderdome
+* ![](/uploads/full with beerman.jpg)
 * More burnout
 * Siege weapons
+* ![](/uploads/vlcsnap-2018-02-27-19h40m50s853.png)
 * Hot tub - didn't exactly _help_ with the burnout but it's a great way to avoid thinking about it
 * Ramm-Shrine
+* ![](/uploads/vlcsnap-2018-02-27-19h40m50s853.png)
 * Drinktober!
+* ![](/uploads/IMG_20181031_190651.jpg)
 * Decem-bier
+* ![](/uploads/WithLighterv2.jpg)
 * Rammstein
+* ![](/uploads/IMG_20190608_214859.jpg)
 * More Rammstein
+* ![](/uploads/IMG_20190706_220345.jpg)
 
 And that about brings us up to date.
 
-So anyway, one of the things that's been putting me off updating (if you don't count the burnout) is the very slight degree of hassle that was involved in posting. 
+So anyway, one of the things that's been putting me off updating (if you don't count the burnout) is the very slight degree of hassle that was involved in posting.
 
 As a Big Damn Nerd who does this stuff for both money and fun I've never met a CMS I didn't hate on first contact - I've dabbled in Drupal, loathe Wordpress, and don't even get me started on Umbraco; static site generators pretty much had me at "hello"
 
