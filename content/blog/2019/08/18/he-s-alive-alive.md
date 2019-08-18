@@ -29,7 +29,7 @@ Holy shit! It's been FOUR. FUCKING. YEARS. Probably worth a bit of a recap then.
 * ![](/beercave-web/uploads/vlcsnap-2018-02-27-19h40m50s853.png)
 * Hot tub - didn't exactly _help_ with the burnout but it's a great way to avoid thinking about it
 * Ramm-Shrine
-* ![](/beercave-web/uploads/vlcsnap-2018-02-27-19h40m50s853.png)
+* ![](/beercave-web/uploads/IMG_20180715_130654.jpg)
 * Drinktober!
 * ![](/beercave-web/uploads/IMG_20181031_190651.jpg)
 * Decem-bier
