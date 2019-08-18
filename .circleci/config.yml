@@ -16,7 +16,7 @@ jobs:
       - run:
                 name: Get current site
                 working_directory: ~/hugo
-                command: git clone -b master https://${GITHUB_TOKEN)@github.com/technicalhat/beercave-web.git public
+                command: git clone -b master https://${GITHUB_TOKEN}@github.com/technicalhat/beercave-web.git public
       - run: HUGO_ENV=production hugo -v -d $HUGO_BUILD_DIR
       - deploy:
           name: Deploy to Github Pages
@@ -27,4 +27,4 @@ jobs:
               git config user.name "CircleCI Build bot"
               git add .
               git commit --allow-empty -m "Trigger deployment"
-              git push -q https://${GITHUB_TOKEN)@github.com/technicalhat/beercave-web.git master
+              git push -q https://${GITHUB_TOKEN}@github.com/technicalhat/beercave-web.git master
