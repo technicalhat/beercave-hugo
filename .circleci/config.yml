@@ -10,16 +10,13 @@ jobs:
       TARGET_REPO: technicalhat/beercave-web.git
 
     steps:
-      - add_ssh_keys:
-          fingerprints:
-              - "9d:df:c9:74:62:c4:4e:98:b9:b4:1b:87:86:0d:99:63"
       - run: apk update && apk add git
       - checkout
       - run: git submodule sync && git submodule update --init
       - run:
                 name: Get current site
                 working_directory: ~/hugo
-                command: git clone -b master git@github.com:technicalhat/beercave-web.git public
+                command: git clone -b master https://${GITHUB_TOKEN)@github.com/technicalhat/beercave-web.git public
       - run: HUGO_ENV=production hugo -v -d $HUGO_BUILD_DIR
       - deploy:
           name: Deploy to Github Pages
@@ -30,4 +27,4 @@ jobs:
               git config user.name "CircleCI Build bot"
               git add .
               git commit --allow-empty -m "Trigger deployment"
-              git push -q git@github.com:technicalhat/beercave-web.git master
+              git push -q https://${GITHUB_TOKEN)@github.com/technicalhat/beercave-web.git master
