@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://technicalhat.github.io/beercave-web/"
 languageCode = "en-us"
 title = "Beercave Games - putting the fun back into functional alcoholism!"
 theme = "beercave"
