@@ -15,4 +15,5 @@ fields:
   name: date
   label: date
 pages:
+- content/blog/2019/08/20/so-that-redesign-huh.md
 - content/blog/2019/08/18/he-s-alive-alive.md
