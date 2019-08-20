@@ -100,6 +100,50 @@ body{
 .home-image{
     background-image:url('../img/falk-hero.jpg');
 }
+.block .recent{
+    
+    position: relative;
+}
+.block .recent header {
+    display: inline-block;
+    height: 80px;
+    width: 100px;
+}
+
+.block .recent h3 {
+    position: absolute;
+    top:0;
+    padding-left: 110px;
+}
+
+.block .recent header time{
+    position: absolute;
+    width: 100px;
+    background-color: #eef;
+    height: 80px;
+    display: block;
+    text-align: center;
+    border-radius: 5px;
+}
+.block .recent header time .day {
+    font-size: 3rem;
+    font-family: Orbitron, Impact, Arial Black, Helvetica Inserat, sans-serif;
+    display: block;
+    text-align: center;
+    line-height: 1;
+}
+.block .recent header time .month {
+    font-family: Roboto script=all rev=1, Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    display: block;
+    text-align: center;
+    background-color: rgba(0,0,0,0.5);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding:0px 3px;
+    border-radius: 0 0 5px 5px;
+}
 .container .block{
     
     background-color: #3976b3;
@@ -347,6 +391,23 @@ footer{
 .post-footer .sharing-links a:hover i{ 
     color:#aaa;
     text-decoration: none;
+}
+footer{
+    padding-top: 1em;
+}
+footer section h1{
+    font-size:1.5em;
+}
+footer section li{
+    list-style: none;
+}
+footer section a{
+    text-decoration: none;
+    color:#fff;
+}
+footer section a:hover{
+    text-decoration: none;
+    color:#aaa;
 }
 @media (max-width:430px){
     #content{padding-top: 96px;}

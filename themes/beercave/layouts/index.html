@@ -37,9 +37,41 @@ BIG OL' FOOTER
 </header>
 
 <section class="container">
-<section class="row">
-<div class="col-md-8 block"><p>{{.Content}}</p></div>
-<div class="col-md-4 text-center"><img src='{{ "img/beerman-cutout-smol.png" | absURL}}'></div>
-</section>
+    <section class="row">
+        <div class="col-md-8 block"><p>{{.Content}}</p>
+            <h2>Recent releases</h2>
+        
+            {{range first 3 (where .Site.Pages "Section" "games")}}
+            
+            <section class="recent">
+                <header>
+                    <time datetime='{{.Date.Format "2001-01-01"}}'>
+                        <span class="day">{{.Date.Day}}</span>
+                        <span class="month">{{.Date.Format "Jan"}} {{.Date.Year}}</span>
+                    </time>
+                </header>
+                <a href="{{.Permalink}}"><h3>{{.Title}}</h3></a>
+            </section>
+            {{end}}
+
+            <h2>Recent posts</h2>
+
+                {{range first 3 (where .Site.Pages "Section" "blog")}}
+            
+                <section class="recent">
+                        <header>
+                        <time datetime='{{.Date.Format "2001-01-01"}}'>
+                            <span class="day">{{.Date.Day}}</span>
+                            <span class="month">{{.Date.Format "Jan"}} {{.Date.Year}}</span>
+                        </time>
+                    </header>
+                    <a href="{{.Permalink}}"><h3>{{.Title}}</h3></a>
+                </section>
+                
+                {{end}}
+
+            </div>
+        <div class="col-md-4 text-center"><img src='{{ "img/beerandgames.png" | absURL}}'></div>
+    </section>
 </section>
 {{end}}

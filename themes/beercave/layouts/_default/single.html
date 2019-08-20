@@ -1,5 +1,10 @@
 {{define "main"}}
-THis is the single template
-{{.Title}}
-{{.Content}}
+
+<section class="container">
+        <section class="row">
+            <h1>{{.Title}}</h1>
+        <div class="col-md-8 block"><p>{{.Content}}</p></div>
+        <div class="col-md-4 text-center"><img src='{{ "img/beerman-cutout-smol.png" | absURL}}'></div>
+        </section>
+        </section>
 {{end}}
