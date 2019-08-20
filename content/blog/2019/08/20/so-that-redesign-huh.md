@@ -1,7 +1,6 @@
 +++
 date = "2019-08-20T19:33:00+00:00"
 description = ""
-draft = true
 tags = ["techie waffling"]
 title = "So, that redesign, huh?"
 
