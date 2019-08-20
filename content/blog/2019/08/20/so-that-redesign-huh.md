@@ -11,7 +11,7 @@ So anyway, one of the things that's been putting me off updating (if you don't c
 
 As a Big Damn Nerd who does this stuff for both money and fun I've never met a CMS I didn't hate on first contact - I've dabbled in Drupal, fear and loathe the horrifying collection of security holes that calls itself Wordpress, and don't even get me started on Umbraco; static site generators pretty much had me at "hello"
 
-<--more-->
+<!--more-->
 
 But yeah - back in the before-times of 2013 the blistering speed and dirt-cheap hosting of static sites came with the downside of having to do my content editing offline. Write up content at home, run a bunch of build scripts to test the end result, then copy the output back onto the web server. Bit of a faff really, you can kind of see the output drop right around the point I adopted it.
 
