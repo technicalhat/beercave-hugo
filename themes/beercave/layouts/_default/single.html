@@ -1,5 +1,10 @@
 {{define "main"}}
+{{if .Params.banner }}
+<article class="jumbotron hero px-0">
+        <img src="{{ .Params.banner| absURL}}"/>
+</article>
 
+{{end}}
 <section class="container">
         <section class="row">
             <h1>{{.Title}}</h1>
